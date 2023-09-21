@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![Retail dashboard](Project01/Retail_Dashboard.png)
+![Retail dashboard](Retail_Dashboard.png)
  
 ### **Objective**
 
