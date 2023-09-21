@@ -1,4 +1,4 @@
-Month,Assets Under Management,Net Profit Margin,Customer Churn,Cost Per Acquisition,Stocks,Bonds,Real Estate,Mutual Funds,Monthly Inflow,Monthly Outflow,Customer Age,Customer Age Group,Customer Feedback
+Date,Assets Under Management,Net Profit Margin,Customer Churn,Cost Per Acquisition,Stocks,Bonds,Real Estate,Mutual Funds,Monthly Inflow,Monthly Outflow,Customer Age,Customer Age Group,Customer Feedback
 01-01-2021,8295948,12.47527266,3.836880933,599,330947,477062,92059,57539,324646,287444,66,61+,Poor
 02-01-2021,1698996,19.47175637,6.954641754,995,381904,282450,52650,356523,365594,181694,68,61+,Good
 03-01-2021,1458182,12.55432297,2.416727805,182,319715,419995,355168,368436,108418,328158,51,46-60,Excellent
