@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![Big Data dashboard](Big_Data_Dashboard.png)
+![Big Data dashboard](BIg_Data_Dashboard.png)
  
 ### **Objective**
 
