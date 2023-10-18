@@ -1,0 +1,43 @@
+Write a python code to generate fake data. 1000 rows minimum. monthly/daily time frame. export data to csv. No need to write code for chart creation. Just Understand the metrics and give data accordingly for the following case. 
+
+
+Project Idea Name: Portfolio Performance Tracker
+
+KPI Metrics: ROI, IRR, Investment Performance, etc.
+Charts: Performance Over Time, Investment Breakdown, Risk Assessment, etc.
+Project Idea Name: Market Analysis Dashboard
+
+KPI Metrics: Market Trends, Competitor Analysis, Investment Opportunities, etc.
+Charts: Market Trends Over Time, Market Share Analysis, Competitive Landscape, etc.
+Project Idea Name: Investment Due Diligence Dashboard
+
+KPI Metrics: Financial Analysis, Market Research, Risk Assessment, etc.
+Charts: Financial Metrics, Market Data, Risk Heatmaps, Due Diligence Progress, etc.
+Project Idea Name: Cash Flow Forecasting
+
+KPI Metrics: Projected Cash Flows, Cash Crunch Analysis, etc.
+Charts: Cash Flow Projections, Scenario Analysis, Cash Flow Trends, etc.
+Project Idea Name: Startup Valuation Tool
+
+KPI Metrics: Valuation Metrics (DCF, Comparables, Risk-Adjusted Returns), etc.
+Charts: Valuation Models, Sensitivity Analysis, Valuation Comparisons, etc.
+Project Idea Name: Exit Strategy Analyzer
+
+KPI Metrics: Exit Strategy Evaluation, Market Conditions, Financial Performance, etc.
+Charts: Exit Strategy Comparison, Financial Health Assessment, Market Analysis, etc.
+Project Idea Name: Investment Pipeline Tracker
+
+KPI Metrics: Investment Pipeline Status, Deal Stages, Risk Assessment, etc.
+Charts: Pipeline Funnel, Deal Progression, Risk Heatmaps, etc.
+Project Idea Name: Investor Relations Reporting
+
+KPI Metrics: Fund Performance, Distributions, Investor Feedback, etc.
+Charts: Fund Performance Trends, Distribution History, Investor Satisfaction, etc.
+Project Idea Name: Risk Management Dashboard
+
+KPI Metrics: Risk Identification, Risk Tracking, Risk Mitigation, etc.
+Charts: Risk Heatmaps, Risk Trends, Risk Assessment, Mitigation Progress, etc.
+Project Idea Name: Fund Performance Benchmarking
+
+KPI Metrics: Fund Performance, Industry Benchmarks, Areas for Improvement, etc.
+Charts: Performance vs. Benchmarks, Strengths and Weaknesses Analysis, Benchmark Comparison, etc.
