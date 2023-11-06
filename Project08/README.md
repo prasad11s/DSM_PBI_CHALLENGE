@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![Risk management Dashboard](risk_management_Dashboard.png)
+![manufacturing Dashboard](manufacturing_Dashboard.png)
  
 ### **Objective**
 
