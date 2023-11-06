@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![Real Estate dashboard](Real Estate Dashboard.png)
+![Real Estate dashboard](Real_Estate_dashboard.png)
  
 **Case Study: Real Estate Performance Analysis Dashboard**
 
