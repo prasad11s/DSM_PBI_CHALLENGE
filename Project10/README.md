@@ -1,62 +1,50 @@
-### DSM_PBI_CHALLENGE_Customer_Analytics
+# DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
+ 
+![startup funding Dashboard](startup_funding_Dashboard.png)
+ 
+### **Objective**
 
-### **Prompt**
+The primary objective of this project is to develop a dynamic and interactive dashboard that provides insights into the retail business's monthly performance metrics. Through this dashboard, we aim to empower business leaders and stakeholders with data-driven insights to make informed decisions.
 
-Basics will be 10 Dashboard from 10 top domains related to Customer Analytics. Each one will have 4 Metrics and the Layout will be 4 KPI Metrics with 4 Charts for all Dashboards.
+### **Stakeholders**
 
-### Common Layout for All Dashboards
+**Business Leaders:** To gauge the business performance and strategize future plans based on the data-driven insights provided by the dashboard.
+**Marketing Teams:** To identify customer demographics and preferences, thereby tailoring marketing strategies effectively.
+**Sales Teams:** To identify peak shopping hours and work towards increasing sales during those periods.
 
-4 KPI Metrics: Displayed prominently at the top.
-4 Charts: Below the KPI metrics, offering detailed insights.
+### **Business Problem**
 
-### Level 1: Basics - Customer Analytics Across 10 Domains
+In the dynamic world of retail, having real-time insights into business metrics is imperative. The business problem we aim to solve is the lack of a centralized system that portrays a holistic view of the business performance, including sales trends, customer demographics, and peak shopping hours, among other metrics. By consolidating all these data points into a singular dashboard, we can foster a data-driven culture and streamline decision-making processes.
 
-### Dashboard 1: Retail
+### **Dataset**
 
-KPI Metrics: Monthly Sales, Average Transaction Value, Customer Retention Rate, New Customers Acquired
-Charts: Monthly Sales Trend, Product Category Sales, Customer Demographics, Peak Shopping Hours
+The dataset used in this project is synthetically generated and contains over 1000 rows of monthly data from January 2020 to December 2022. It encompasses various KPI metrics such as:
 
-### Dashboard 2: Finance
+- Monthly Sales
+- Average Transaction Value
+- Customer Retention Rate 
+- New Customers Acquired
 
-KPI Metrics: Assets Under Management, Net Profit Margin, Customer Churn, Cost Per Acquisition
-Charts: Investment Types, Monthly Inflow vs Outflow, Customer Age Group, Customer Feedback
+Moreover, it provides a breakdown of sales across different product categories and customer demographics, offering a granular view of the business dynamics.
 
-### Dashboard 3:  Portfolio Performance Tracker
+### **Results**
 
-KPI Metrics: ROI, IRR, Investment Performance, etc.
-Charts: Performance Over Time, Investment Breakdown, Risk Assessment, etc.
+Upon completion, the dashboard will present a clear and intuitive visualization of the various KPIs, allowing for:
 
-### Dashboard 4: Market Analysis Dashboard
+- Easy tracking of monthly sales trends.
+- Identification of peak shopping hours to optimize staff allocation and marketing strategies.
+- Analysis of customer demographics to tailor marketing strategies.
 
-KPI Metrics: Market Trends, Competitor Analysis, Investment Opportunities, etc.
-Charts: Market Trends Over Time, Market Share Analysis, Competitive Landscape, etc.
+The dashboard is designed to be user-friendly, facilitating easy interpretation of complex data and fostering a data-driven decision-making culture.
 
-### Dashboard 5: Investment Due Diligence Dashboard
+### **Technologies Used**
 
-KPI Metrics: Financial Analysis, Market Research, Risk Assessment, etc.
-Charts: Financial Metrics, Market Data, Risk Heatmaps, Due Diligence Progress, etc.
+- Power BI: For creating interactive and dynamic visualizations (choose as per your tool).
 
-### Dashboard 6:Cash Flow Forecasting
+### **Future Scope**
 
-KPI Metrics: Projected Cash Flows, Cash Crunch Analysis, etc.
-Charts: Cash Flow Projections, Scenario Analysis, Cash Flow Trends, etc.
-
-### Dashboard 7: Startup Valuation Tool
-
-KPI Metrics: Valuation Metrics (DCF, Comparables, Risk-Adjusted Returns), etc.
-Charts: Valuation Models, Sensitivity Analysis, Valuation Comparisons, etc.
-
-### Dashboard 8: Exit Strategy Analyzer
-
-KPI Metrics: Exit Strategy Evaluation, Market Conditions, Financial Performance, etc.
-Charts: Exit Strategy Comparison, Financial Health Assessment, Market Analysis, etc.
-
-### Dashboard 9: Investment Pipeline Tracker
-
-KPI Metrics: Investment Pipeline Status, Deal Stages, Risk Assessment, etc.
-Charts: Pipeline Funnel, Deal Progression, Risk Heatmaps, etc.
-
-### Dashboard 10: Investor Relations Reporting
-
-KPI Metrics: Fund Performance, Distributions, Investor Feedback, etc.
-Charts: Fund Performance Trends, Distribution History, Investor Satisfaction, etc.
+Integration with real-time data sources to provide live updates on the dashboard.
+Implementation of predictive analytics to forecast future sales trends based on historical data.
+Enhancing the dashboard with additional features such as customer feedback analysis and inventory management insights.
+Conclusion
+This project stands as a testament to the leveraging power of data in driving business decisions. Through a detailed and interactive dashboard, it brings data-driven insights to the fingertips of business leaders and stakeholders, promoting informed decision-making and fostering business growth.
