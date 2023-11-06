@@ -1,6 +1,8 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![manufacturing Dashboard](manufacturing_Dashboard.png)
+
+![Manufacturing Dashboard](manufacturing_Dashboard.png)
+
  
 ### **Objective**
 
