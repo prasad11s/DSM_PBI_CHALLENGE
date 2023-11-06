@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![Porfolio management dashboard](portfolio_performance_Dashboard)
+![Porfolio management dashboard](portfolio_performance_Dashboard.png)
  
 ### **Objective**
 
