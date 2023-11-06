@@ -1,6 +1,6 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
-![education_dashboard_data](education_data_dashboard)
+![education dashboard data](Project04/education_data_dashboard.png)
  
 ### **Objective**
 
