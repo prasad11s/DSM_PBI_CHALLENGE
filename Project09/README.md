@@ -18,7 +18,7 @@ In the realm of project management, understanding and mitigating risks are criti
 
 ### **Dataset**
 
-The dataset for this project comprises synthetic data, consisting of over 1000 rows of monthly metrics spanning from January 2020 to December 2022. Key metrics include:
+The dataset for this project comprises synthetic data, consisting of over 1000 rows of monthly metrics spanning from January 2020 to December 2023. Key metrics include:
 
 - Risk Identification Count
 - Risk Tracking Progress
