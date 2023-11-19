@@ -1,50 +1,52 @@
 # DSM_PBI_CHALLENGE_CUSTOMER_REPOSITORY
  
 ![Porfolio management dashboard](portfolio_performance_Dashboard.png)
- 
-### **Objective**
 
-The primary objective of this project is to develop a dynamic and interactive dashboard that provides insights into the retail business's monthly performance metrics. Through this dashboard, we aim to empower business leaders and stakeholders with data-driven insights to make informed decisions.
+### **Objective**
+The primary objective of this project is to develop a comprehensive and insightful finance dashboard that provides a detailed view of key performance indicators (KPIs) for a financial institution. 
+This dashboard aims to empower decision-makers, including business leaders and stakeholders, with the necessary information to assess the financial health of the institution, track investment performance, and analyze customer behavior.
 
 ### **Stakeholders**
+**Business Leaders:** To gain a holistic view of the financial performance and make strategic decisions based on the insights provided by the dashboard.
 
-**Business Leaders:** To gauge the business performance and strategize future plans based on the data-driven insights provided by the dashboard.
-**Marketing Teams:** To identify customer demographics and preferences, thereby tailoring marketing strategies effectively.
-**Sales Teams:** To identify peak shopping hours and work towards increasing sales during those periods.
+**Finance Teams:** To monitor and analyze KPIs related to assets under management, net profit margin, customer churn, and cost per acquisition.
+
+**Investment Teams:** To track investment types and assess their contribution to the overall portfolio.
 
 ### **Business Problem**
-
-In the dynamic world of retail, having real-time insights into business metrics is imperative. The business problem we aim to solve is the lack of a centralized system that portrays a holistic view of the business performance, including sales trends, customer demographics, and peak shopping hours, among other metrics. By consolidating all these data points into a singular dashboard, we can foster a data-driven culture and streamline decision-making processes.
+In the financial sector, staying informed about critical metrics is essential for making sound decisions. The business problem we address is the absence of a centralized platform that consolidates financial data, making it challenging for stakeholders to analyze and interpret key financial indicators. The finance dashboard aims to bridge this gap by providing a clear and concise overview of financial performance.
 
 ### **Dataset**
+The dataset used in this project consists of synthetically generated financial data spanning the last two years, with a monthly time frame. It includes key metrics such as:
+- Assets Under Management
+- Net Profit Margin
+- Customer Churn
+- Cost Per Acquisition
+- Investment Types
+- Monthly Inflow and Outflow
+- Customer Feedback
 
-The dataset used in this project is synthetically generated and contains over 1000 rows of monthly data from January 2020 to December 2022. It encompasses various KPI metrics such as:
-
-- Monthly Sales
-- Average Transaction Value
-- Customer Retention Rate 
-- New Customers Acquired
-
-Moreover, it provides a breakdown of sales across different product categories and customer demographics, offering a granular view of the business dynamics.
+The dataset comprises over 1000 rows, ensuring a robust representation of financial activities.
 
 ### **Results**
 
-Upon completion, the dashboard will present a clear and intuitive visualization of the various KPIs, allowing for:
+Dashboard has allowed the teams to: 
+- Monitor the growth of assets under management over time.
+- Analyze the net profit margin to assess financial viability.
+- Track customer churn rates and identify potential areas for improvement.
+- Evaluate the cost-effectiveness of customer acquisition strategies.
+- Visualize the distribution of investments across different types.
+- Compare monthly inflow and outflow trends.
 
-- Easy tracking of monthly sales trends.
-- Identification of peak shopping hours to optimize staff allocation and marketing strategies.
-- Analysis of customer demographics to tailor marketing strategies.
-
-The dashboard is designed to be user-friendly, facilitating easy interpretation of complex data and fostering a data-driven decision-making culture.
+The dashboard is designed to facilitate data-driven decision-making, providing actionable insights for strategic planning and financial management.
 
 ### **Technologies Used**
-
-- Power BI: For creating interactive and dynamic visualizations (choose as per your tool).
+- Power BI: Leveraged for creating dynamic and interactive visualizations.
 
 ### **Future Scope**
+Integration with real-time financial data sources to provide live updates on the dashboard.
+Implementation of predictive analytics to forecast financial trends based on historical data.
+Enhancing the dashboard with additional features such as risk analysis and portfolio optimization insights.
 
-Integration with real-time data sources to provide live updates on the dashboard.
-Implementation of predictive analytics to forecast future sales trends based on historical data.
-Enhancing the dashboard with additional features such as customer feedback analysis and inventory management insights.
-Conclusion
-This project stands as a testament to the leveraging power of data in driving business decisions. Through a detailed and interactive dashboard, it brings data-driven insights to the fingertips of business leaders and stakeholders, promoting informed decision-making and fostering business growth.
+### **Conclusion**
+This finance dashboard serves as a powerful tool for financial institutions, offering a centralized hub for critical KPIs. By providing a visually intuitive representation of financial data, it empowers stakeholders to make informed decisions, thereby contributing to the institution's growth and financial success.
