@@ -5,7 +5,7 @@
 ### **Objective**
 The primary objective of this project is to create a dynamic and interactive dashboard that provides comprehensive insights into the landscape of startup funding. By leveraging key performance indicators (KPIs) and visualizations, this dashboard aims to empower business leaders and stakeholders with data-driven insights to understand funding trends, identify key investors, and assess the distribution of funding across industry verticals.
 
-### **Stakeholders:
+### **Stakeholders:**
 **Investment Managers:** To analyze and strategize investment decisions based on funding trends and investor preferences.
 
 **Startups and Entrepreneurs:** To understand the competitive landscape, identify potential investors, and benchmark funding amounts.
